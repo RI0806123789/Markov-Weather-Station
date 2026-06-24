@@ -20,7 +20,6 @@ WEATHERNEWS/
 │   ├── weather_config.py           # 表示・フォント設定
 │   ├── weather_model.tflite        # 画像認識用TFLiteモデル
 │   ├── weather_data_save.csv  # 天気記録データ
-│   └── memo.txt                    # 開発メモ
 ├── .gitignore
 └── README.md
 ```
