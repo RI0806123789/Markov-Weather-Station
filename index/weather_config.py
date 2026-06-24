@@ -1,0 +1,11 @@
+DEBUG_MODE = False
+
+VER_INFO = "1.0 BETA"
+
+DISPLAY_SIZE = "425x425"
+FONT_COLOR = ("black", "white")
+FONT_SIZE_MAIN = 24
+FONT_SIZE_BTN = 20
+FONT_SIZE_TITLE = 28
+FONT_FAMILY = "Meiryo"
+FG_COLOR = ("lightgray", "gray")

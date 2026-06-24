@@ -1,0 +1,10 @@
+#dataset git ignore
+/weather_dataset/cloud
+/weather_dataset/rain
+/weather_dataset/snow
+/weather_dataset/sun
+
+*.csv
+*.txt
+
+
