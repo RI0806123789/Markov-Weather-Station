@@ -13,7 +13,7 @@
 ## ディレクトリ構成
 
 ```
-WEATHERNEWS/
+Markov Weather Station/
 ├── index/                          # アプリ本体
 │   ├── weathernews_GUI.py          # GUIアプリ（メイン）
 │   ├── weathernews_CUI.py          # CUI版（コマンドライン）
